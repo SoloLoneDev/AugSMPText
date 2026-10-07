@@ -1,0 +1,238 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/decay1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/decay1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/decay2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/decay2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue008"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/singu1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue009"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/singu1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/singu2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue00a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/singu2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/air1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue00b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/air1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/air2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue00c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/air2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/thorns1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue00e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/thorns1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue00d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/trapper1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue011"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/trapper1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue00f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/trapper2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue012"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/trapper2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue010"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/vodoo1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue013"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/vodoo2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue014"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/vill1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue015"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/vill2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue016"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/war1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue017"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/war2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue018"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/mend1_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue019"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "blissgems:font/mend2_icon.png",
+      "ascent": 14,
+      "height": 16,
+      "chars": [
+        "\ue01a"
+      ]
+    }
+  ]
+}

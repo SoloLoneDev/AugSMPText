@@ -1,0 +1,62 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/echo_shard"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "blissgems:item/decay_fracture"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "blissgems:item/singu_energy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "blissgems:item/air_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "blissgems:item/thorns_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "blissgems:item/trapper_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "blissgems:item/vodoo_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "blissgems:item/villager_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "blissgems:item/war_bottle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "blissgems:item/mend_bottle"
+    }
+  ]
+}

@@ -15,7 +15,7 @@ jobs:
     name: Create zip
 
         run: |
-          zip -r project.zip ./*
+          zip -r AugTex.zip ./*
 
     name: Create / update release
 
